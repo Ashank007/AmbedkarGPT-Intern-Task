@@ -34,7 +34,7 @@ Before you begin, you **must** have the following installed:
 ### 2. Clone the Repository
 Clone this public repository to your local machine.
 ```bash
-git clone [https://github.com/Ashank007/AmbedkarGPT-Intern-Task.git](https://github.com/Ashank007/AmbedkarGPT-Intern-Task.git)
+git clone https://github.com/Ashank007/AmbedkarGPT-Intern-Task.git
 cd AmbedkarGPT-Intern-Task
 ```
 
